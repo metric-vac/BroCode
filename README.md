@@ -315,14 +315,14 @@ Ideas for future features:
 
 ## License
 
-BroCode is free to use, modify, and share. Just keep it fun, bro!
+BroCode is free to use. The source code will be realesed once its polished and fully functional.
 
 ## Credits
 
-Created with humor and love for programming languages that don't take themselves too seriously.
+Created by me(metric_vac) just as a fun project, this us my first coding language interpreter and jt was a fun peoject to work with.
 
 ---
 
-**Remember:** Coding is supposed to be fun. If you're not having fun, you're not doing it right, bro! 🚀
+**Remember:** Coding is supposed to be fun. If you're not having fun, you're not doing it right, bro
 
-For questions, issues, or just to chat about BroCode, feel free to reach out!
+For questions, issues, or just to chat about BroCode, feel free to reach out to me.
