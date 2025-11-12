@@ -1,6 +1,6 @@
 # BroCode Programming Language 🎯
 
-A humorous, frat house-themed programming language with a Python interpreter. Because coding should be fun, broskiii
+A funny frat house-themed programming language with a Python interpreter. Because coding should be fun broskiii
 
 ## Features
 
@@ -15,7 +15,7 @@ A humorous, frat house-themed programming language with a Python interpreter. Be
 
 ## Installation
 
-Just download `brocode.py` - that's it bro! Requires Python 3.6+.
+Just download `brocode.py` - that's it. Requires Python 3.6+.
 
 ```bash
 chmod +x brocode.py
