@@ -1,6 +1,6 @@
 # BroCode Programming Language 🎯
 
-A humorous, frat house-themed programming language with a Python interpreter. Because coding should be fun, bro!
+A humorous, frat house-themed programming language with a Python interpreter. Because coding should be fun, broskiii
 
 ## Features
 
