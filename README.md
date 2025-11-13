@@ -2,6 +2,9 @@
 
 A funny frat house-themed programming language with a Python interpreter. Because coding should be fun broskiii
 
+## Disclamer:
+BroCode is still on the early stages and the code is temporarily obfuscated. Once the polished and finalized version is done, then it will be released.
+
 ## Features
 
 - **Dynamic typing** - Numbers and strings work seamlessly
